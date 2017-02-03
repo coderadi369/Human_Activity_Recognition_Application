@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Acceleration Recording App</string>
+    <string name="action_settings">Settings</string>
+    <string name="butwalk">Escalater up</string>
+    <string name="butjog">Lift Down</string>
+    <string name="butrun">Escalator down</string>
+    <string name="butsleep">Lift Up</string>
+    <string name="butup">UpStairs</string>
+    <string name="butdown">DownStairs</string>
+    <string name="display">Large Text</string>
+    <string name="stop">Stop Recording</string>
+    <string name="butstand">standing</string>
+    <string name="walk">walking</string>
+</resources>
